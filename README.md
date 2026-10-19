@@ -1,13 +1,14 @@
 # Olá, eu sou o Felipe Henrique 👋
 
-Sou desenvolvedor fullstack. Nos últimos anos meu foco foi o front-end, e agora estou voltando a estudar back-end.
-
-Este GitHub é o meu espaço de estudos: aqui ficam os projetos que faço para aprender, testar ideias e praticar.
+Sou desenvolvedor fullstack. Este GitHub é o meu espaço de estudos: aqui ficam os projetos que faço para aprender, testar ideias e praticar.
 
 ## 🛠️ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![WebXR](https://img.shields.io/badge/WebXR%20%2F%20RA-6E40C9?style=flat)
@@ -28,4 +29,4 @@ Configurador de cozinha planejada em 3D que roda direto no navegador. Feito em 2
 
 ## 📫 Contato
 
-- LinkedIn: [seu-perfil](https://www.linkedin.com/in/felipehenriquee/)
+- LinkedIn: [felipehenriquee](https://www.linkedin.com/in/felipehenriquee/)
